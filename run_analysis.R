@@ -25,6 +25,7 @@ test_subjects <- fread("UCI HAR Dataset/test/subject_test.txt")
 activity_labels <- setNames(activity_labels, c("activity_id", "activity"))
 features <- setNames(features, c("feature_id", "feature"))
 training_activities <- setNames(training_activities, c("activity_id"))
+training_subjects <- setNames(training_subjects, c("subject_id"))
 
 # combine datasets
 training_raw <- cbind(training_subjects, training_activities, training_data)
