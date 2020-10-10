@@ -3,7 +3,7 @@ Final assignment
 
 CODEBOOK.md
 
-DATASET COMPLETE_MEAN.csv
+OUTPUT DATASET: COMPLETE_MEAN.csv
 
 VARIABLES                         VALUE OBSERVA POSSIBLE_VALUES
                                   -TYPE -TIONS
